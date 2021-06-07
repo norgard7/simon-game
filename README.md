@@ -21,4 +21,4 @@ A Game to improve your memory and fun. Play against friends to see who has the b
 
 
 # Deployed Website
-<a href =" https://norgard7.github.io/simon-game/">Simon Game</a>
+<a href ="https://norgard7.github.io/simon-game/">Simon Game</a>
